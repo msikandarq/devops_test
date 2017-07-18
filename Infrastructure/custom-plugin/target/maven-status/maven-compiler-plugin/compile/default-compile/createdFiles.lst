@@ -1,0 +1,4 @@
+org\jenkinsci\plugins\customplugin\CustomViewsTabBar$CustomViewsTabBarDescriptor.class
+org\jenkinsci\plugins\customplugin\CustomViewsTabBar.stapler
+META-INF\annotations\hudson.Extension
+org\jenkinsci\plugins\customplugin\CustomViewsTabBar.class
